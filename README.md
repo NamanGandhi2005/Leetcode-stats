@@ -4,3 +4,5 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/namangandhi?ext=heatmap)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/namangandhi?ext=badge)
