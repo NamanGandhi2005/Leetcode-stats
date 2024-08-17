@@ -1,3 +1,3 @@
 # Leetcode-stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/namangandhi)
+![](https://leetcard.jacoblin.cool/lapor?ext=contest)
